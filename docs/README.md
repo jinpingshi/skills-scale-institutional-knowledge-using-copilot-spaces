@@ -73,11 +73,29 @@ Design, build, test, and deliver software components that meet acceptance criter
 - Code reviews and technical design
 - Risk identification and estimation
 
-### QA/Testing
-Validate quality and ensure acceptance criteria are met through various testing approaches.
-- Test planning and execution
-- Quality gates and acceptance validation
-- Bug triage and verification
+### Release Manager
+Orchestrates release planning, execution, communications, and incident response.
+- Release schedules and deployment coordination
+- Pre-release readiness reviews
+- Incident response and rollback procedures
+
+### QA Lead
+Defines and oversees the test strategy, manages test resources, and reports on product quality.
+- Test strategy and planning
+- Quality gates and test coverage
+- Bug triage coordination
+
+### Business Analyst
+Gathers, refines, and documents requirements, bridging gaps between business stakeholders and delivery teams.
+- Requirements elicitation and documentation
+- Stakeholder interviews and validation
+- Process flows and functional specifications
+
+### UX Designer
+Designs and validates user experiences, creates wireframes and prototypes, and champions usability.
+- User research and usability testing
+- Wireframes, mockups, and prototypes
+- Design systems and UI guidelines
 
 [Full role descriptions →](octoacme-roles-and-personas.md)
 

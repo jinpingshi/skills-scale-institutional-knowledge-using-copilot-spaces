@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead coordinates test strategy and coverage reviews
+- UX Designer validates user experience against design specifications
 
 ## Reporting & Metrics
 - Track velocity and burndown
