@@ -40,4 +40,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (with QA Lead if applicable)
+- [ ] Requirements validated and documented (with Business Analyst if applicable)
+- [ ] UX designs and user flows reviewed (with UX Designer if applicable)
